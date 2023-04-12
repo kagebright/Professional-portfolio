@@ -36,6 +36,10 @@ The portfolio website includes the following features:
 - Project section with information about my past and current projects, including screenshots and descriptions
 - Contact section with a contact form that allows visitors to send me a message directly from the website
 
+## Author
+
+[Bright Abety](https://github.com/kagebright) - Full Stack Software Developer
+
 ## Screenshots
 
 
